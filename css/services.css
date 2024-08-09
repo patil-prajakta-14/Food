@@ -1,0 +1,56 @@
+.services-sub-heading{
+    color: black;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.services-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.services-card{
+    background-color: white;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0 0 10px 5px #808080;
+}
+
+.services-img{
+    height: 100px;
+    width: 150px;
+    display:block;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px 10px 0 0;
+}
+
+.services{
+    background-color: white;
+    height: 300px;
+    width: 250px;
+    margin: 20px;
+    margin-top: 30px;
+    padding: 10px;
+    box-shadow: -5px 5px 10px 2px #172c66;
+    border: 2px #808080 solid;
+    border-radius: 20px;
+}
+
+.p-text{
+    font-size: 25px;
+}
+
+.services-title{
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    padding-top: 10px;
+}

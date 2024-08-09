@@ -1,0 +1,62 @@
+.menu-sub-heading{
+    color: black;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.salad-container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.salad-img{
+    height: 200px;
+    width: 250px;
+    display:block;
+    border: #172c66 solid 1px;
+    border-radius: 10px 10px 0 0;
+}
+
+.salad{
+    background-color: white;
+    height: 350px;
+    width: 250px;
+    margin: 20px;
+    margin-top: 30px;
+    padding: 10px;
+    box-shadow: -5px 5px 10px 2px #172c66;
+    border: 2px #808080 solid;
+    border-radius: 20px;
+}
+
+.salad-title{
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.salad-order-btn{
+    background-color: #ff3363;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    display: block;
+    margin: 5px auto;
+    border: #808080 2px solid;
+}
+
+.salad-order-btn:hover{
+    border-radius: 25px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.title{
+    
+}

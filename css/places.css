@@ -1,0 +1,26 @@
+.map-container{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+
+}
+
+.map{
+    background-color: #ffc6c7;
+    height: 115px;
+    width: 400px;
+    font-size: 25px;
+    border: 2px solid #ff8ba7;
+    padding-top: 10px;
+    
+}
+
+.map-img{
+    border: 3px solid #ff3363;
+    height: 398px;
+    background-color: white;
+    box-shadow: -5px 5px 10px 2px #172c66;
+    border: 2px #808080 solid;
+
+}
